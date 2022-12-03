@@ -111,3 +111,12 @@ num是用户想删除的留言的序号
 不需要任何key
 
 使用该功能时不可以有账户已登录
+
+## 该作业的数据库的表：
+![T$8PWPO((773{USVH96@@AU](https://user-images.githubusercontent.com/116962163/205443266-ef366d40-242a-43a7-ac32-0b2faa8e5911.png)
+![J5WHWT0OIXVZRWB UWCOWRF](https://user-images.githubusercontent.com/116962163/205443274-ab3b4e0f-fdaf-463c-b4be-b82ad42d72a2.png)
+![RG K9S9YC$_5I%~O7$WXZMB](https://user-images.githubusercontent.com/116962163/205443280-2d884571-d00a-47b7-b3c1-012a7576780e.png)
+
+## lv0的作业截图：
+![JNNG233H8BDOK7X7ORON_LV](https://user-images.githubusercontent.com/116962163/205443301-b637e142-72de-46ae-8e7b-6fbc2187809d.png)
+
